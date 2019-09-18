@@ -15,14 +15,14 @@ function App() {
   return (
     <main>
       <h1>Create React App + Go API</h1>
-      <h2>
-        Deployed with{' '}
+      <h2>Nerissa was here
+        Deployed with{''}
         <a
           href="https://zeit.co/docs"
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          Nerissa Taylor was here
         </a>
         !
       </h2>
